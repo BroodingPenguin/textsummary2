@@ -2,5 +2,5 @@ title: Test
 emoji: ⚡
 colorFrom: pink
 colorTo: blue
-sdk: static
+sdk: docker
 pinned: false
