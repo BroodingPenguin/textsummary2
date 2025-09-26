@@ -1,1 +1,6 @@
-This is an app for get a summary of a url
+title: Test
+emoji: ⚡
+colorFrom: pink
+colorTo: blue
+sdk: static
+pinned: false
